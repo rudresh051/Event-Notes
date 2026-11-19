@@ -58,5 +58,6 @@ Join **Sudhir Manjunath** to explore how to transform quality assurance from a f
 
 ![alt text](image-4.png)
 
-
+* **Treat Quality as infrastructure for Trust**, not as a checkpoint at the end because AI has made software creation abundant
+* Trust is now the scarce resource
 
