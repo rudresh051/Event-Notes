@@ -17,7 +17,7 @@ Join **Sudhir Manjunath** to explore how to transform quality assurance from a f
 ## The Quality Shift
 
 * From end-stage gate to continuous part of SDLC
-  * How much bugs reached customer.
+  * **How much bugs reached customer.**
 * From tests to truth: defining what correct means
 * From counts to confidence & trust
 
